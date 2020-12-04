@@ -1,16 +1,41 @@
-### Hi there 👋
+# 👋 welcome to my github page
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tayeb-Ali&layout=compact&theme=radical)](https://github.com/Tayeb-Ali/github-readme-stats)
 
-<!--
-**Tayeb-Ali/Tayeb-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Who I'm ?
+<p> Name: Ahmed ELTAYEB ALI.</p>
+<p> Contact: Elteyab@thesmarter-sd.xyz</p>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What i do? About Me!:
+ - The man who creates Soft War. Tech-Boy Big Fan of Microsoft Tech Tools .
+ 
+#use->
+- Laravel . 
+- Rust .
+- C# Asp.net .
+- Flutter.
+- Ionic .
+- NativeScript.
+- Angular And Vue or any JavaFcript :p.
+
+
+- ## Some of my Github Stats
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tayeb-Ali&layout=compact&theme=radical)](https://github.com/Tayeb-Ali/github-readme-stats)
+
+  [![Tayeb-Ali's github stats](https://github-readme-stats.vercel.app/api?username=Tayeb-Ali&theme=radical)](https://github.com/Tayeb-Ali)
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tayeb-Ali&repo=RestApi&theme=radical)](https://github.com/Tayeb-Ali/RestApi)
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tayeb-Ali&repo=ZoolCrud&theme=radical)](https://github.com/Tayeb-Ali/ZoolCrud)
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tayeb-Ali&repo=io-stepper&theme=radical)](https://github.com/Tayeb-Ali/io-stepper)
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tayeb-Ali&repo=ionic3FullApp&theme=radical)](https://github.com/Tayeb-Ali/ionic3FullApp)
+  
+ # [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tayeb-Ali&repo=muslim&theme=radical)](https://github.com/Tayeb-Ali/muslim)
+
+  
+  
+
+
