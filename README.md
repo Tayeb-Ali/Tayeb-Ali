@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed ELTAYEB ALI</h1>  <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Tayeb-Ali&style=flat-square">
+<h1 align="center">Hi 👋, I'm Ahmed ELTAYEB ALI</h1>  
 <h2 align="center">A Software Developer</h2>
 
 - 🌱 I’m currently learning Functional programming & Flutter.
@@ -30,8 +30,13 @@
 </p>
 <br>
 
+## Awards
+<p align="left"><img align="right" alt="Profile Hits for Elteyab" src="https://komarev.com/ghpvc/?username=Tayeb-Ali&style=flat-square"></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tayeb-Ali" alt="Tayeb-Ali" /></a> </p>
 
-------
+
+
+
 ### 🧰 Frameworks and libraries
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=Ionic&logoColor=white)
