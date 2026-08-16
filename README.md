@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Ahmed ELTAYEB ALI</h1>  <br><h2 align="center">A Software Developer</h2><br><br> 🌱 I’m currently learning Functional programming & Flutter.<br> 💬 Ask me about tech and trends<br> ⚡ Fun fact: I love learning new languages<br> 👋 See myResume i created it use Angular <a href="https://elteyab.sd" target="_blank"> Vist 🗄️ </a><br>
+<h1 align="center">Hi 👋, I'm ELTAYEB</h1>  <br><h2 align="center">A Software Developer</h2><br><br> 🌱 I’m currently learning Functional programming & Flutter.<br> 💬 Ask me about tech and trends<br> ⚡ Fun fact: I love learning new languages<br> 👋 See myResume i created it use Angular <a href="https://elteyab.sd" target="_blank"> Vist 🗄️ </a><br>
 
 
 ## 🌐 Socials:
